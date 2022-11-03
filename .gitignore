@@ -3,3 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+_site/index.html
+_site/feed.xml
+_site/2022/11/03/welcome.html
